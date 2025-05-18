@@ -5,3 +5,7 @@ c
 ada
 pascal
 haskell
+
+IDE
+Netbeans
+Eclipse
